@@ -3,7 +3,7 @@
   "extensions": {
     "eventHubs":{
       "prefetchCount": 300,
-      "maxBatchSize": 64
+      "maxBatchSize": 100
     }
   },
   "logging": {
